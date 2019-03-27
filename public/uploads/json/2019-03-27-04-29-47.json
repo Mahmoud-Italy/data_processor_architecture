@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Product Name 1",
+        "description": "Product Description 1",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "name": "Product Name 2",
+        "description": "Product Description 2",
+        "created_at": null,
+        "updated_at": null
+    }
+]
