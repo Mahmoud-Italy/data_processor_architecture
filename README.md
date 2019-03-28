@@ -47,6 +47,6 @@ $ php artisan serve
 now you can access this application via http://localhost:8000
 
 
-that’s is have fun :)
+that’s it have fun :)
 
 
