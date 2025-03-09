@@ -29,7 +29,7 @@ https://www.useloom.com/share/717eb9dacccc470f9f768942ac5a6110
 Development environment requirements:   
 
 php >= 7.1
-
+  
 
 
 Setting up your development environment on your local machine:
