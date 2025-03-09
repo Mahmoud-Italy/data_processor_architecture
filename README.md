@@ -1,7 +1,7 @@
 <h1>Data Processing Architecture</h1>
    
 <p>The purpose of this repository is support different type of data type stored into database</p>
-
+ 
    
 <b>Solutions:</b>
  
