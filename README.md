@@ -26,7 +26,7 @@ https://www.useloom.com/share/717eb9dacccc470f9f768942ac5a6110
 
 <b>Installation:</b>
 
-Development environment requirements:
+Development environment requirements:   
 
 php >= 7.1
 
