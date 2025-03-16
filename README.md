@@ -32,7 +32,7 @@ php >= 7.1
   
 
 
-Setting up your development environment on your local machine:
+Setting up your development environment on your local machine: 
 
 $ git clone Mahmoud-Italy/data_processor_architecture.git
 
