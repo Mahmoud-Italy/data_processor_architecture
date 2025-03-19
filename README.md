@@ -2,7 +2,7 @@
     
 <p>The purpose of this repository is support different type of data type stored into database</p>
  
-   
+    
 <b>Solutions:</b> 
  
 You can Import & Export JSON,CSV files to Database with user Interface
