@@ -39,7 +39,7 @@ $ git clone Mahmoud-Italy/data_processor_architecture.git
 $ cd data_processor_architecture
 
 $ composer update
-
+ 
 $ php artisan make:migrate
 
 $ php artisan serve
